@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchPlacesStart, updateVisitedStart } from "../redux/placesSlice";
 import { Place } from "../dto/types";
