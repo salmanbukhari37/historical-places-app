@@ -50,6 +50,8 @@ cd historical-places-app
 
 ## Usage
 
+`Note`: Rename the `local.env` file to `.env`. It will help to connect back-end apis with front-end.
+
 ### Install the packages
 
 #### Npm
